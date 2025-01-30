@@ -1,2 +1,2 @@
 # TopicosProgramacion
-Mariana Trejo Escobar - 23590218
+Mi primer programa
